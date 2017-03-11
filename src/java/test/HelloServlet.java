@@ -37,7 +37,14 @@ public class HelloServlet extends HttpServlet {
     out.println("</head>");
     out.println("<body bgcolor=\"white\">");
     
-     out.println("<a href=\"page2.html\">");
+    
+     out.println("eBilly use a SIX interface for conecting only one UX, with several banks providers");
+     
+     out.println("</br>");
+     out.println("</br>");
+     
+     
+     out.println("<a href=\"page3.html\">");
      out.println("Go to code");
      out.println("</a>");
     
